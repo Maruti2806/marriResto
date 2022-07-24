@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/marriResto/static/css/main.e7468afd.css",
-    "main.js": "/marriResto/static/js/main.dca1f980.js",
+    "main.css": "/marriResto/static/css/main.17655c3c.css",
+    "main.js": "/marriResto/static/js/main.cd337dba.js",
     "index.html": "/marriResto/index.html",
-    "main.e7468afd.css.map": "/marriResto/static/css/main.e7468afd.css.map",
-    "main.dca1f980.js.map": "/marriResto/static/js/main.dca1f980.js.map"
+    "main.17655c3c.css.map": "/marriResto/static/css/main.17655c3c.css.map",
+    "main.cd337dba.js.map": "/marriResto/static/js/main.cd337dba.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7468afd.css",
-    "static/js/main.dca1f980.js"
+    "static/css/main.17655c3c.css",
+    "static/js/main.cd337dba.js"
   ]
 }
