@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marriResto/static/css/main.e7468afd.css",
+    "main.js": "/marriResto/static/js/main.dca1f980.js",
+    "index.html": "/marriResto/index.html",
+    "main.e7468afd.css.map": "/marriResto/static/css/main.e7468afd.css.map",
+    "main.dca1f980.js.map": "/marriResto/static/js/main.dca1f980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.dca1f980.js"
+  ]
+}
